@@ -1,0 +1,22 @@
+# Auth tokens — never commit these
+credentials.json
+token.json
+
+# Downloaded attachments
+attachments/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
+dist/
